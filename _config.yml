@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_YB.jpg"
+  avatar           : "profile_YB_r.jpg"
   name             : "Younes Boutiyarzist"
   pronouns         : # example: "she/her"  
   bio              : "R&D Engineer | PhD Candidate | Navigation & Computer Vision | Sensor Fusion."
