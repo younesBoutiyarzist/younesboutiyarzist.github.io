@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "About"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am **Younes Boutiyarzist**, an **R&D Engineer** and **PhD Candidate** working at the intersection of **robotics**, **computer vision**, **sensor fusion**, and **autonomous aerospace systems**.
