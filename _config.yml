@@ -23,12 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "profile_yb.jpg"
   name             : "Younes Boutiyarzist"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Vision Engineer and PhD Candidate in Visual Perception and State Estimation."
+  location         : "Toulouse, France"
+  employer         : "Collins Aerospace / ISAE-SUPAERO"
+  email            : "younes.boutiyarzist@hotmail.com"
+  github           : "younesBoutiyarzist"
   uri              : # URL
   email            : "none@example.org" 
 
