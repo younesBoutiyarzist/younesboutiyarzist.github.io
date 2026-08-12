@@ -4,26 +4,27 @@ collection: teaching
 type: "Engineering courses"
 permalink: /teaching/inp-toulouse-enseeiht-teaching-assistant
 venue: "INP Toulouse, ENSEEIHT"
-date: 2023-2026
+date: 2023-01-01
+period: "2023–2026"
 location: "Toulouse, France"
 ---
 
-Teaching assistant for engineering students at **INP Toulouse, ENSEEIHT**.
+Teaching assistant for engineering students at **INP Toulouse, ENSEEIHT** from **2023 to 2026**.
 
-My teaching activities include tutorials and lab sessions in probability, statistics, and data analytics for engineering students.
+My teaching activities include tutorials and laboratory sessions in probability, statistics, and data analytics.
 
 ## Courses
 
-### Probability - Engineering
+### Probability
 
 - Tutorials
-- Lab sessions
+- Laboratory sessions
 
-### Statistics - Engineering
+### Statistics
 
 - Tutorials
-- Lab sessions
+- Laboratory sessions
 
-### Data Analytics - Engineering
+### Data Analytics
 
-- Lab sessions
+- Laboratory sessions
