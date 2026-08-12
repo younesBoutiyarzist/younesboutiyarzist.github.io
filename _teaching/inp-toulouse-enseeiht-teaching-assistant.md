@@ -4,7 +4,7 @@ collection: teaching
 type: "Engineering courses"
 permalink: /teaching/inp-toulouse-enseeiht-teaching-assistant
 venue: "INP Toulouse, ENSEEIHT"
-date: 2023-01-01
+date: 2023-2026
 location: "Toulouse, France"
 ---
 
