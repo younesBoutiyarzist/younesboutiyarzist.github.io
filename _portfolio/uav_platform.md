@@ -1,7 +1,7 @@
 ---
 title: "Autonomous UAV System Integration"
 collection: portfolio
-order: 4
+order: 2
 excerpt: '
 <div style="display:flex; gap:10px; margin-bottom:12px;">
 
