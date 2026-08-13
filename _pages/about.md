@@ -7,62 +7,69 @@ redirect_from:
   - /about.html
 ---
 
-I am **Younes Boutiyarzist**, an **R&D Engineer** and **PhD Candidate** working at the intersection of **robotics**, **computer vision**, **sensor fusion**, and **autonomous aerospace systems**.
+I am **Younes Boutiyarzist**, an **R&D Engineer** and **PhD Candidate** working at the intersection of **machine learning**, **computer vision**, **probabilistic inference**, and **robotics** for autonomous aerospace systems.
 
-My research focuses on robust perception and state estimation for real-world autonomous systems. I am particularly interested in visual perception, multi-sensor fusion, camera-radar fusion, motion estimation, 2D–3D geometry, and uncertainty-aware navigation for robotic and aerospace platforms.
+My research focuses on robust perception and estimation under uncertainty, including **2D–3D registration**, camera localization, multi-sensor perception, Bayesian inference, and learning-based methods for real-world autonomous platforms.
 
-I am currently an **R&D Engineer at Collins Aerospace** in Blagnac, France, and a **PhD Candidate at ISAE-SUPAERO** in Toulouse. My work involves developing and validating perception and estimation algorithms using camera, radar, IMU, GNSS, and LiDAR data, with applications to drone, helicopter, and autonomous aerospace systems.
+I am currently an **R&D Engineer at Collins Aerospace** in Blagnac, France, and a **PhD Candidate at ISAE-SUPAERO** in Toulouse. My work covers the development, implementation, and validation of perception algorithms using camera, radar, IMU, GNSS, and LiDAR data, with applications to drones, helicopters, and autonomous aerospace systems.
 
+[View my portfolio](/portfolio/)  
 [Download my CV](/files/cv.pdf)
 
 # Research Interests
 
+* Machine learning for perception
+* Computer vision and 3D understanding
+* Probabilistic machine learning
 * Robotics and autonomous systems
-* Visual perception for navigation
-* State estimation under uncertainty
-* Multi-sensor fusion
-* Camera-radar fusion
-* Visual-inertial odometry
-* Camera pose estimation
-* Camera calibration
+* Representation learning
+* Robust perception under uncertainty
+* Multi-sensor perception and sensor fusion
+* Camera pose estimation and localization
 * 2D–3D registration and projective geometry
-* Kalman filtering and probabilistic modeling
+* Bayesian inference and latent-variable models
 * Nonlinear optimization
-* Real-world robotic and aerospace experimentation
+* Real-world aerospace and robotic experimentation
 
 # Current Position
 
-**R&D Engineer**
+**R&D Engineer**  
 **Collins Aerospace**, Blagnac, France
 
-**PhD Candidate**
+**PhD Candidate**  
 **ISAE-SUPAERO**, Toulouse, France
 
-My PhD focuses on AI-based perception, state estimation, and uncertainty-aware algorithms for autonomous aerospace systems. The work is conducted in partnership with Collins Aerospace and ISAE-SUPAERO.
+My PhD focuses on AI-based perception, probabilistic estimation, and robust localization for autonomous aerospace systems. The work is conducted in partnership with Collins Aerospace and ISAE-SUPAERO.
 
 # Research and Engineering Work
 
-My current work includes the development of robust multi-sensor estimation pipelines for autonomous systems. I work with heterogeneous sensors such as cameras, radar, IMU, GNSS, and LiDAR, with a strong focus on robustness, uncertainty modeling, and integration constraints.
+My current work combines **machine learning, probabilistic modeling, computer vision, and nonlinear optimization** to develop robust perception methods for autonomous systems.
 
-I also develop camera-radar fusion methods for anti-collision and navigation-related applications, including ACAS X-related contexts. My work combines computer vision, probabilistic modeling, Kalman-filter-related methods, nonlinear optimization, and real-world validation.
+A major part of my research focuses on **2D–3D registration and camera localization**, where I develop probabilistic data-association and latent-variable methods to estimate camera pose under uncertainty, outliers, and incomplete observations.
 
-I have experience designing synthetic datasets and conducting real-world drone acquisition campaigns to evaluate algorithms under realistic operating conditions.
+I also investigate learning-based approaches for geometric representation and correspondence estimation, as well as non-parametric methods combining **neural networks and probabilistic inference** for camera modeling and calibration.
+
+These methods are evaluated through reproducible experimental pipelines and validated on real drone platforms using heterogeneous sensors such as cameras, radar, IMU, GNSS, and LiDAR.
+
+Selected projects and demonstrations are available in my [portfolio](/portfolio/).
 
 # Background
 
-Before my current position, I worked at **Thales LAS** on deep learning methods for image restoration on near-infrared and infrared imaging systems. I also worked at **TéSA Laboratory** on Bayesian geometric modeling for partial and noisy LiDAR point clouds, with robust outlier handling.
+Before my current position, I worked at **Thales LAS** on deep learning methods for image restoration using near-infrared and infrared imagery, including model fine-tuning and experimental evaluation.
+
+I also worked at **TéSA Laboratory** on Bayesian geometric estimation for partial and noisy LiDAR point clouds, developing robust probabilistic methods based on Gibbs sampling and heavy-tailed statistical models.
 
 I graduated from **ENSEEIHT** in Toulouse, France, with an engineering degree specializing in signal processing, machine learning, computer vision, and applied mathematics.
 
 # Technical Skills
 
-* **Programming:** Python, C++, MATLAB, Linux, Git
-* **Robotics and autonomy:** navigation, perception, sensor fusion, real-world experimentation
-* **Computer vision:** camera calibration, image processing, 2D–3D geometry, pose estimation
-* **Estimation:** state estimation, Kalman filtering, Bayesian estimation, probabilistic modeling
+* **Machine Learning:** PyTorch, TensorFlow, deep learning, representation learning, model training and evaluation
+* **Probabilistic ML:** Bayesian inference, EM, latent-variable models, MCMC, particle filtering, uncertainty estimation
+* **Computer Vision:** 2D–3D registration, camera localization, camera calibration, image processing, 3D geometry
+* **Robotics:** perception, sensor fusion, state estimation, autonomous systems, real-world experimentation
 * **Optimization:** nonlinear optimization, bundle adjustment, robust estimation
+* **Programming:** Python, C++, MATLAB, Linux, Git
 * **Sensors:** camera, radar, IMU, GNSS, LiDAR
-* **AI:** machine learning, deep learning, model evaluation
 
 # Contact
 
