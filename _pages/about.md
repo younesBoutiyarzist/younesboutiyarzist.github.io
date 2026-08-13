@@ -63,12 +63,12 @@ I graduated from **ENSEEIHT** in Toulouse, France, with an engineering degree sp
 
 # Technical Skills
 
-* **Machine Learning:** PyTorch, TensorFlow, deep learning, representation learning, model training and evaluation
+* **Machine Learning:** PyTorch, JAX, deep learning, model training and evaluation
 * **Probabilistic ML:** Bayesian inference, EM, latent-variable models, MCMC, particle filtering, uncertainty estimation
 * **Computer Vision:** 2D–3D registration, camera localization, camera calibration, image processing, 3D geometry
 * **Robotics:** perception, sensor fusion, state estimation, autonomous systems, real-world experimentation
 * **Optimization:** nonlinear optimization, bundle adjustment, robust estimation
-* **Programming:** Python, C++, MATLAB, Linux, Git
+* **Programming:** Python, C++, MATLAB, ROS, Linux, Git
 * **Sensors:** camera, radar, IMU, GNSS, LiDAR
 
 # Contact
