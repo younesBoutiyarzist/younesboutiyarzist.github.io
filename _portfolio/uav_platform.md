@@ -9,7 +9,7 @@ excerpt: '
        alt="Custom UAV platform"
        style="width:33%; object-fit:cover;">
 
-  <img src="/images/uav_cube_flight_controller.jpg"
+  <img src="/images/uav_cube_flight_controller.JPG"
        alt="Cube flight controller"
        style="width:33%; object-fit:cover;">
 
