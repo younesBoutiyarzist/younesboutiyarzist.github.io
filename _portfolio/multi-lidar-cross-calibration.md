@@ -1,7 +1,7 @@
 ---
 title: "Multi-LiDAR Cross-Calibration"
 collection: portfolio
-order: 2
+order: 3
 excerpt: '
 Cross-calibration of multiple LiDAR sensors using a spherical target and robust sphere fitting.
 
