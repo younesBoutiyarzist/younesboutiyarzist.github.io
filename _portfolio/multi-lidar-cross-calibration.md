@@ -5,11 +5,11 @@ order: 1
 excerpt: "Cross-calibration of multiple LiDAR sensors using a spherical target and robust sphere fitting."
 ---
 
-<img src="/images/multi_lidar_setup.pdf"
+<img src="/images/multi_lidar_setup.png"
      alt="Multi-LiDAR experimental setup"
      style="width:48%; margin-right:2%;">
 
-<img src="/images/multi_lidar_sphere_calibration.pdf"
+<img src="/images/multi_lidar_sphere_calibration.png"
      alt="Multi-LiDAR spherical target calibration principle"
      style="width:48%;">
 
